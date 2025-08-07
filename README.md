@@ -34,7 +34,7 @@ A lo largo del semestre, cubriremos una variedad de temas esenciales:
 Utilizaremos una combinación de herramientas y lenguajes de programación estándar en la industria:
 
 -   **Python**: Para la manipulación y análisis de datos (`pandas`, `numpy`, `scikit-learn`).
--   **Jupyter Notebooks**: Como nuestro entorno de trabajo principal.
+-   **Google Colab**: Como nuestro entorno de trabajo principal.
 -   **SQL**: Para la extracción y consulta de datos de bases de datos relacionales.
 -   **Tableau / Power BI / Looker Studio**: Para la visualización de datos y creación de dashboards.
 -   **Git y GitHub**: Para el control de versiones y la colaboración en proyectos.

@@ -1,5 +1,5 @@
 # 📊 Marketing Analytics
-
+Autor Juan Pablo Ballesteros Cristo
 ¡Bienvenido al repositorio oficial de la clase de **Marketing Analytics**! Este espacio está diseñado para albergar todos los materiales del curso, incluyendo código, datasets, notebooks y proyectos.
 
 ## 📜 Descripción del Curso

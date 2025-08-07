@@ -43,7 +43,7 @@ Utilizaremos una combinación de herramientas y lenguajes de programación está
 
 1.  **Clona este repositorio**:
     ```bash
-    git clone [https://github.com/tu-usuario/marketing-analytics.git](https://github.com/tu-usuario/marketing-analytics.git)
+    git clone([https://github.com/tu-usuario/marketing-analytics.git](https://github.com/Juanpapas1917/IntroMarketinngAnalitics/tree/main))
     ```
 2.  **Instala las dependencias**:
     Asegúrate de tener Python instalado. Luego, instala las librerías necesarias.
